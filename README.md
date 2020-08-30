@@ -59,6 +59,8 @@ PCB files made in Eagle CAD.  Include ready to print files for https://jlcpcb.co
 
 Power Circuit PCB - power reg 5v_2019-04-10.zip
 
+Control PCB JEEP_Aux_Control_PCB.brd and JEEP_Aux_Control_PCB.sch
+
 
 
 
