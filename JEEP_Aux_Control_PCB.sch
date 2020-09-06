@@ -6864,7 +6864,7 @@ diameter 5 mm, horizontal, grid 15.24 mm</description>
 <parts>
 <part name="U22" library="SparkFun-IC-Microcontroller" library_urn="urn:adsk.eagle:library:525" deviceset="ATMEGA328P_PDIP" device="" package3d_urn="urn:adsk.eagle:package:38942/1" value="328P"/>
 <part name="GND22" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="Q22" library="special" library_urn="urn:adsk.eagle:library:367" deviceset="XTAL" device="" package3d_urn="urn:adsk.eagle:package:26649/1"/>
+<part name="Q22" library="special" library_urn="urn:adsk.eagle:library:367" deviceset="XTAL" device="" package3d_urn="urn:adsk.eagle:package:26649/1" value="16MHz"/>
 <part name="C43" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="22PF" device="-PTH-2.54MM-200V-5%" package3d_urn="urn:adsk.eagle:package:37435/1" value="22pF"/>
 <part name="C44" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="22PF" device="-PTH-2.54MM-200V-5%" package3d_urn="urn:adsk.eagle:package:37435/1" value="22pF"/>
 <part name="5VDELAY" library="testpad" library_urn="urn:adsk.eagle:library:385" deviceset="TP" device="PAD1-13Y" package3d_urn="urn:adsk.eagle:package:27947/1"/>
@@ -6895,17 +6895,19 @@ diameter 5 mm, horizontal, grid 15.24 mm</description>
 <part name="L5B" library="testpad" library_urn="urn:adsk.eagle:library:385" deviceset="TP" device="PAD1-13Y" package3d_urn="urn:adsk.eagle:package:27947/1"/>
 <part name="L6A" library="testpad" library_urn="urn:adsk.eagle:library:385" deviceset="TP" device="PAD1-13Y" package3d_urn="urn:adsk.eagle:package:27947/1"/>
 <part name="L6B" library="testpad" library_urn="urn:adsk.eagle:library:385" deviceset="TP" device="PAD1-13Y" package3d_urn="urn:adsk.eagle:package:27947/1"/>
-<part name="D1" library="diode" library_urn="urn:adsk.eagle:library:210" deviceset="SCHOTTKY-DIODE" device="CB417-15" package3d_urn="urn:adsk.eagle:package:43349/2"/>
-<part name="D2" library="diode" library_urn="urn:adsk.eagle:library:210" deviceset="SCHOTTKY-DIODE" device="CB417-15" package3d_urn="urn:adsk.eagle:package:43349/2"/>
-<part name="D3" library="diode" library_urn="urn:adsk.eagle:library:210" deviceset="SCHOTTKY-DIODE" device="CB417-15" package3d_urn="urn:adsk.eagle:package:43349/2"/>
-<part name="D4" library="diode" library_urn="urn:adsk.eagle:library:210" deviceset="SCHOTTKY-DIODE" device="CB417-15" package3d_urn="urn:adsk.eagle:package:43349/2"/>
-<part name="D5" library="diode" library_urn="urn:adsk.eagle:library:210" deviceset="SCHOTTKY-DIODE" device="CB417-15" package3d_urn="urn:adsk.eagle:package:43349/2"/>
-<part name="D6" library="diode" library_urn="urn:adsk.eagle:library:210" deviceset="SCHOTTKY-DIODE" device="CB417-15" package3d_urn="urn:adsk.eagle:package:43349/2"/>
+<part name="D1" library="diode" library_urn="urn:adsk.eagle:library:210" deviceset="SCHOTTKY-DIODE" device="CB417-15" package3d_urn="urn:adsk.eagle:package:43349/2" value="SB1100"/>
+<part name="D2" library="diode" library_urn="urn:adsk.eagle:library:210" deviceset="SCHOTTKY-DIODE" device="CB417-15" package3d_urn="urn:adsk.eagle:package:43349/2" value="SB1100"/>
+<part name="D3" library="diode" library_urn="urn:adsk.eagle:library:210" deviceset="SCHOTTKY-DIODE" device="CB417-15" package3d_urn="urn:adsk.eagle:package:43349/2" value="SB1100"/>
+<part name="D4" library="diode" library_urn="urn:adsk.eagle:library:210" deviceset="SCHOTTKY-DIODE" device="CB417-15" package3d_urn="urn:adsk.eagle:package:43349/2" value="SB1100"/>
+<part name="D5" library="diode" library_urn="urn:adsk.eagle:library:210" deviceset="SCHOTTKY-DIODE" device="CB417-15" package3d_urn="urn:adsk.eagle:package:43349/2" value="SB1100"/>
+<part name="D6" library="diode" library_urn="urn:adsk.eagle:library:210" deviceset="SCHOTTKY-DIODE" device="CB417-15" package3d_urn="urn:adsk.eagle:package:43349/2" value="SB1100"/>
 <part name="TOLCD5VDELAY" library="testpad" library_urn="urn:adsk.eagle:library:385" deviceset="TP" device="PAD1-13Y" package3d_urn="urn:adsk.eagle:package:27947/1"/>
 <part name="LCDGND" library="testpad" library_urn="urn:adsk.eagle:library:385" deviceset="TP" device="PAD1-13Y" package3d_urn="urn:adsk.eagle:package:27947/1"/>
 <part name="TX" library="testpad" library_urn="urn:adsk.eagle:library:385" deviceset="TP" device="PAD1-13Y" package3d_urn="urn:adsk.eagle:package:27947/1"/>
 <part name="RX" library="testpad" library_urn="urn:adsk.eagle:library:385" deviceset="TP" device="PAD1-13Y" package3d_urn="urn:adsk.eagle:package:27947/1"/>
 <part name="GND3" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
+<part name="GND" library="testpad" library_urn="urn:adsk.eagle:library:385" deviceset="TP" device="PAD1-13Y" package3d_urn="urn:adsk.eagle:package:27947/1"/>
+<part name="GND4" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -7084,6 +7086,13 @@ diameter 5 mm, horizontal, grid 15.24 mm</description>
 <instance part="GND3" gate="1" x="99.06" y="73.66" smashed="yes">
 <attribute name="VALUE" x="96.52" y="71.12" size="1.778" layer="96"/>
 </instance>
+<instance part="GND" gate="G$1" x="50.8" y="99.06" smashed="yes">
+<attribute name="NAME" x="49.53" y="100.33" size="1.778" layer="95"/>
+<attribute name="TP_SIGNAL_NAME" x="52.07" y="97.79" size="1.778" layer="97"/>
+</instance>
+<instance part="GND4" gate="1" x="50.8" y="93.98" smashed="yes">
+<attribute name="VALUE" x="48.26" y="91.44" size="1.778" layer="96"/>
+</instance>
 </instances>
 <busses>
 </busses>
@@ -7164,6 +7173,10 @@ diameter 5 mm, horizontal, grid 15.24 mm</description>
 <pinref part="LCDGND" gate="G$1" pin="TP"/>
 <pinref part="GND3" gate="1" pin="GND"/>
 <wire x1="99.06" y1="81.28" x2="99.06" y2="76.2" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="GND" gate="G$1" pin="TP"/>
+<pinref part="GND4" gate="1" pin="GND"/>
 </segment>
 </net>
 <net name="N$211" class="0">
@@ -7371,8 +7384,31 @@ diameter 5 mm, horizontal, grid 15.24 mm</description>
 <junction x="213.36" y="-20.32"/>
 </segment>
 </net>
-<net name="N$19" class="0">
+<net name="N$20" class="0">
 <segment>
+<pinref part="TX" gate="G$1" pin="TP"/>
+<wire x1="104.14" y1="81.28" x2="104.14" y2="73.66" width="0.1524" layer="91"/>
+<wire x1="104.14" y1="73.66" x2="160.02" y2="73.66" width="0.1524" layer="91"/>
+<wire x1="160.02" y1="73.66" x2="160.02" y2="40.64" width="0.1524" layer="91"/>
+<pinref part="U22" gate="G$1" pin="PD1(TXD)"/>
+<wire x1="160.02" y1="40.64" x2="152.4" y2="40.64" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$22" class="0">
+<segment>
+<pinref part="RX" gate="G$1" pin="TP"/>
+<wire x1="109.22" y1="81.28" x2="157.48" y2="81.28" width="0.1524" layer="91"/>
+<wire x1="157.48" y1="81.28" x2="157.48" y2="43.18" width="0.1524" layer="91"/>
+<pinref part="U22" gate="G$1" pin="PD0(RXD)"/>
+<wire x1="157.48" y1="43.18" x2="152.4" y2="43.18" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$23" class="0">
+<segment>
+<pinref part="D2" gate="G$1" pin="C"/>
+<pinref part="L2A" gate="G$1" pin="TP"/>
+<wire x1="215.9" y1="71.12" x2="215.9" y2="68.58" width="0.1524" layer="91"/>
+<wire x1="215.9" y1="68.58" x2="210.82" y2="68.58" width="0.1524" layer="91"/>
 <pinref part="12VCONSTANT" gate="G$1" pin="TP"/>
 <pinref part="L1A" gate="G$1" pin="TP"/>
 <wire x1="60.96" y1="96.52" x2="208.28" y2="96.52" width="0.1524" layer="91"/>
@@ -7397,15 +7433,9 @@ diameter 5 mm, horizontal, grid 15.24 mm</description>
 <wire x1="220.98" y1="25.4" x2="228.6" y2="25.4" width="0.1524" layer="91"/>
 <wire x1="215.9" y1="45.72" x2="228.6" y2="45.72" width="0.1524" layer="91"/>
 <junction x="228.6" y="45.72"/>
-<wire x1="215.9" y1="68.58" x2="228.6" y2="68.58" width="0.1524" layer="91"/>
-<pinref part="L2A" gate="G$1" pin="TP"/>
-<wire x1="215.9" y1="71.12" x2="215.9" y2="68.58" width="0.1524" layer="91"/>
 <pinref part="D1" gate="G$1" pin="C"/>
 <wire x1="208.28" y1="96.52" x2="208.28" y2="93.98" width="0.1524" layer="91"/>
 <junction x="208.28" y="96.52"/>
-<pinref part="D2" gate="G$1" pin="C"/>
-<wire x1="215.9" y1="68.58" x2="210.82" y2="68.58" width="0.1524" layer="91"/>
-<junction x="215.9" y="68.58"/>
 <pinref part="D3" gate="G$1" pin="C"/>
 <wire x1="215.9" y1="45.72" x2="210.82" y2="45.72" width="0.1524" layer="91"/>
 <wire x1="210.82" y1="45.72" x2="210.82" y2="43.18" width="0.1524" layer="91"/>
@@ -7421,25 +7451,9 @@ diameter 5 mm, horizontal, grid 15.24 mm</description>
 <pinref part="D6" gate="G$1" pin="C"/>
 <wire x1="220.98" y1="-12.7" x2="220.98" y2="-17.78" width="0.1524" layer="91"/>
 <junction x="220.98" y="-12.7"/>
-</segment>
-</net>
-<net name="N$20" class="0">
-<segment>
-<pinref part="TX" gate="G$1" pin="TP"/>
-<wire x1="104.14" y1="81.28" x2="104.14" y2="73.66" width="0.1524" layer="91"/>
-<wire x1="104.14" y1="73.66" x2="160.02" y2="73.66" width="0.1524" layer="91"/>
-<wire x1="160.02" y1="73.66" x2="160.02" y2="40.64" width="0.1524" layer="91"/>
-<pinref part="U22" gate="G$1" pin="PD1(TXD)"/>
-<wire x1="160.02" y1="40.64" x2="152.4" y2="40.64" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$22" class="0">
-<segment>
-<pinref part="RX" gate="G$1" pin="TP"/>
-<wire x1="109.22" y1="81.28" x2="157.48" y2="81.28" width="0.1524" layer="91"/>
-<wire x1="157.48" y1="81.28" x2="157.48" y2="43.18" width="0.1524" layer="91"/>
-<pinref part="U22" gate="G$1" pin="PD0(RXD)"/>
-<wire x1="157.48" y1="43.18" x2="152.4" y2="43.18" width="0.1524" layer="91"/>
+<wire x1="215.9" y1="68.58" x2="228.6" y2="68.58" width="0.1524" layer="91"/>
+<junction x="215.9" y="68.58"/>
+<junction x="228.6" y="68.58"/>
 </segment>
 </net>
 </nets>
