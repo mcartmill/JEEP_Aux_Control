@@ -1,0 +1,43 @@
+Partlist exported from /Users/michaelcartmill/Documents/Jeep Aux Control Project/JEEP_Aux_Control/JEEP_Aux_Control_PCB.sch at 9/6/20 11:56 AM
+
+Part         Value      Device                  Package      Description               MF                MPN  OC_FARNELL OC_NEWARK POPULARITY PROD_ID   SPICEPREFIX TP_SIGNAL_NAME VALUE
+5VDELAY      TPPAD1-13Y TPPAD1-13Y              P1-13Y       Test pad                                                              0                                                    
+12VCONSTANT  TPPAD1-13Y TPPAD1-13Y              P1-13Y       Test pad                                                              0                                                    
+C43          22pF       22PF-PTH-2.54MM-200V-5% CAP-PTH-2.54 22pF ceramic capacitors                                                          CAP-09128                            22pF 
+C44          22pF       22PF-PTH-2.54MM-200V-5% CAP-PTH-2.54 22pF ceramic capacitors                                                          CAP-09128                            22pF 
+D1                      SCHOTTKY-DIODECB417-15  CB417-15     Schottky Diode                                                        0                                                    
+D2                      SCHOTTKY-DIODECB417-15  CB417-15     Schottky Diode                                                        0                                                    
+D3                      SCHOTTKY-DIODECB417-15  CB417-15     Schottky Diode                                                        0                                                    
+D4                      SCHOTTKY-DIODECB417-15  CB417-15     Schottky Diode                                                        0                                                    
+D5                      SCHOTTKY-DIODECB417-15  CB417-15     Schottky Diode                                                        0                                                    
+D6                      SCHOTTKY-DIODECB417-15  CB417-15     Schottky Diode                                                        0                                                    
+L1A          TPPAD1-13Y TPPAD1-13Y              P1-13Y       Test pad                                                              0                                                    
+L1B          TPPAD1-13Y TPPAD1-13Y              P1-13Y       Test pad                                                              0                                                    
+L2A          TPPAD1-13Y TPPAD1-13Y              P1-13Y       Test pad                                                              0                                                    
+L2B          TPPAD1-13Y TPPAD1-13Y              P1-13Y       Test pad                                                              0                                                    
+L3A          TPPAD1-13Y TPPAD1-13Y              P1-13Y       Test pad                                                              0                                                    
+L3B          TPPAD1-13Y TPPAD1-13Y              P1-13Y       Test pad                                                              0                                                    
+L4A          TPPAD1-13Y TPPAD1-13Y              P1-13Y       Test pad                                                              0                                                    
+L4B          TPPAD1-13Y TPPAD1-13Y              P1-13Y       Test pad                                                              0                                                    
+L5A          TPPAD1-13Y TPPAD1-13Y              P1-13Y       Test pad                                                              0                                                    
+L5B          TPPAD1-13Y TPPAD1-13Y              P1-13Y       Test pad                                                              0                                                    
+L6A          TPPAD1-13Y TPPAD1-13Y              P1-13Y       Test pad                                                              0                                                    
+L6B          TPPAD1-13Y TPPAD1-13Y              P1-13Y       Test pad                                                              0                                                    
+LCDGND       TPPAD1-13Y TPPAD1-13Y              P1-13Y       Test pad                                                              0                                                    
+OK1          4N33       4N33                    DIL06        MOTOROLA OPTO COUPLER     VISHAY/TELEFUNKEN 4N33 1469601    88K1390   0                                                    
+OK2          4N33       4N33                    DIL06        MOTOROLA OPTO COUPLER     VISHAY/TELEFUNKEN 4N33 1469601    88K1390   0                                                    
+OK3          4N33       4N33                    DIL06        MOTOROLA OPTO COUPLER     VISHAY/TELEFUNKEN 4N33 1469601    88K1390   0                                                    
+OK4          4N33       4N33                    DIL06        MOTOROLA OPTO COUPLER     VISHAY/TELEFUNKEN 4N33 1469601    88K1390   0                                                    
+OK5          4N33       4N33                    DIL06        MOTOROLA OPTO COUPLER     VISHAY/TELEFUNKEN 4N33 1469601    88K1390   0                                                    
+OK6          4N33       4N33                    DIL06        MOTOROLA OPTO COUPLER     VISHAY/TELEFUNKEN 4N33 1469601    88K1390   0                                                    
+Q22                     XTAL                    Q            CRYSTAL                                                                                                                    
+R1           1K         R-US_R0603              R0603        RESISTOR, American symbol                                             77                   R                               
+R2           1K         R-US_R0603              R0603        RESISTOR, American symbol                                             77                   R                               
+R3           1K         R-US_R0603              R0603        RESISTOR, American symbol                                             77                   R                               
+R4           1K         R-US_R0603              R0603        RESISTOR, American symbol                                             77                   R                               
+R5           1K         R-US_R0603              R0603        RESISTOR, American symbol                                             77                   R                               
+R6           1K         R-US_R0603              R0603        RESISTOR, American symbol                                             77                   R                               
+RX           TPPAD1-13Y TPPAD1-13Y              P1-13Y       Test pad                                                              0                                                    
+TOLCD5VDELAY TPPAD1-13Y TPPAD1-13Y              P1-13Y       Test pad                                                              0                                                    
+TX           TPPAD1-13Y TPPAD1-13Y              P1-13Y       Test pad                                                              0                                                    
+U22          328P       ATMEGA328P_PDIP         DIP28        Atmel 328P                                                                       IC-09136                             328P 
