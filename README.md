@@ -73,6 +73,9 @@ BOM along with sources for parts
  
 Control Board BOM
 https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=32fda13301
+
+Power Board BOM
+https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=7aa37e28ff
  
 Touchscreen
 https://www.amazon.com/Nextion-NX4024T032-Display-Arduino-Raspberry/dp/B07QYRB38T/ref=sr_1_5?dchild=1&keywords=nextion+display&qid=1599437750&sr=8-5
