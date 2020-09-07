@@ -69,6 +69,16 @@ ________________________________________________________________________________
 BOM
 
 BOM along with sources for parts
+ 
+Control Board BOM
+https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=32fda13301
+ 
+Touchscreen
+https://www.amazon.com/Nextion-NX4024T032-Display-Arduino-Raspberry/dp/B07QYRB38T/ref=sr_1_5?dchild=1&keywords=nextion+display&qid=1599437750&sr=8-5
+ 
+Relays
+https://www.amazon.com/ONLINE-LED-STORE-Pack-Interlocking/dp/B01KVZ2MU4/ref=sr_1_8?crid=1BJ267T4AIGVN&dchild=1&keywords=bosch+relay+12v&qid=1599437842&sprefix=bosch+relay%2Caps%2C187&sr=8-8
+
 
 
 ____________________________________________________________________________________
